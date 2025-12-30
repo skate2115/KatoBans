@@ -3,11 +3,6 @@
     {
       "userId": 1080997930,
       "reason": "Testowy ban"
-    },
-    {
-      "userId": 4011591285,
-      "reason": "Brak podanego powodu",
-      "bannedAt": "2025-12-30T20:35:59.011Z"
     }
   ]
 }
