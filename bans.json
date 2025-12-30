@@ -1,10 +1,3 @@
 {
-  "bannedPlayers": [
-    {
-      "userId": 4011591285,
-      "reason": "test",
-      "bannedAt": "2025-12-30T21:31:34.166Z",
-      "expiresAt": "2025-12-30T21:32:33.985Z"
-    }
-  ]
+  "bannedPlayers": []
 }
