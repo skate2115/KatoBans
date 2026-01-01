@@ -1,3 +1,10 @@
 {
-  "bannedPlayers": []
+  "bannedPlayers": [
+    {
+      "userId": 1229056191695556600,
+      "reason": "RDM",
+      "bannedAt": "2026-01-01T20:03:01.860Z",
+      "expiresAt": "2026-01-01T20:04:01.694Z"
+    }
+  ]
 }
