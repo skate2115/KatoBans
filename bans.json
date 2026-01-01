@@ -1,3 +1,11 @@
 {
-  "bannedPlayers": []
+  "bannedPlayers": [
+    {
+      "userId": 1080997930,
+      "reason": "RDM na GZ",
+      "bannedAt": "2026-01-01T13:04:34.959Z",
+      "expiresAt": "2026-01-01T13:09:34.641Z",
+      "admin": "System (Gra)"
+    }
+  ]
 }
